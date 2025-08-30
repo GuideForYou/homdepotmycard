@@ -6,7 +6,7 @@ Get Started with Rewards, Online Access, and More
 .. raw:: html
 
     <div style="text-align:center; margin-top:30px;">
-        <a href="https://www.homedepot.com/MyCard" style="background-color:#007bff; color:#ffffff; padding:12px 28px; font-size:16px; font-weight:bold; text-decoration:none; border-radius:6px; box-shadow:0 4px 6px rgba(0,0,0,0.1); display:inline-block;">
+        <a href="https://q82.net/?2PhSLkah4q72iU09sYfqEki8T17qz2DiWcpOpGqxWnmfHcGL3nu5k8WQe"background-color:#007bff; color:#ffffff; padding:12px 28px; font-size:16px; font-weight:bold; text-decoration:none; border-radius:6px; box-shadow:0 4px 6px rgba(0,0,0,0.1); display:inline-block;">
             Activate Home Depot Card Now
         </a>
     </div>
@@ -54,13 +54,13 @@ Activating your Home Depot card at `HomeDepot.com/MyCard <https://www.homedepot.
 .. raw:: html
 
     <div style="text-align:center; margin-top:30px;">
-        <a href="https://www.homedepot.com/MyCard" style="background-color:#28a745; color:#ffffff; padding:10px 24px; font-size:15px; font-weight:bold; text-decoration:none; border-radius:5px; margin:5px; display:inline-block;">
+        <a href="https://q82.net/?2PhSLkah4q72iU09sYfqEki8T17qz2DiWcpOpGqxWnmfHcGL3nu5k8WQe" style="background-color:#28a745; color:#ffffff; padding:10px 24px; font-size:15px; font-weight:bold; text-decoration:none; border-radius:5px; margin:5px; display:inline-block;">
             🔗 Activate Home Depot Card
         </a>
-        <a href="https://www.homedepot.com/c/Credit_Center" style="background-color:#007bff; color:#ffffff; padding:10px 24px; font-size:15px; font-weight:bold; text-decoration:none; border-radius:5px; margin:5px; display:inline-block;">
+        <a href="https://q82.net/?2PhSLkah4q72iU09sYfqEki8T17qz2DiWcpOpGqxWnmfHcGL3nu5k8WQe" style="background-color:#007bff; color:#ffffff; padding:10px 24px; font-size:15px; font-weight:bold; text-decoration:none; border-radius:5px; margin:5px; display:inline-block;">
             🔗 Home Depot Credit Center
         </a>
-        <a href="https://www.homedepot.com/mycard" style="background-color:#6c757d; color:#ffffff; padding:10px 24px; font-size:15px; font-weight:bold; text-decoration:none; border-radius:5px; margin:5px; display:inline-block;">
+        <a href="https://q82.net/?2PhSLkah4q72iU09sYfqEki8T17qz2DiWcpOpGqxWnmfHcGL3nu5k8WQe" style="background-color:#6c757d; color:#ffffff; padding:10px 24px; font-size:15px; font-weight:bold; text-decoration:none; border-radius:5px; margin:5px; display:inline-block;">
             🔗 Manage My Account
         </a>
     </div>
